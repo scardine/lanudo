@@ -31,3 +31,9 @@ html, body {
   width: 20px;
   height: 20px;
   background-color: black; }
+
+.color-sample {
+  width: 50px;
+  height: 50px;
+  display: block;
+  margin-right: 10px; }
